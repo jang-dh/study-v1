@@ -1,4 +1,4 @@
-# study-v1
+# Git
 
 깃 정리
 
@@ -19,7 +19,7 @@ git status 상태보기
 git add 파일명 << 얘를 추적해라
 
 git config --global user.name jang-dh
-git config --global user.email jangdh0428@gmail.com <<깃 시작하고 한번만 쓰는 것임 
+git config --global user.email email-account <<깃 시작하고 한번만 쓰는 것임 
 git commit 후 vim 으로 들어가서 message 입력 가능 << 최초 버전 생성
 
 git log 역사 확인
