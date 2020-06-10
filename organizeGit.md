@@ -1,4 +1,40 @@
-# Git
+# Organize Git
+
+## CMD command
++ **cd** : move the path
++ **ls -al** : show the list that is in this folder
++ **mkdir** : make the folder
++ **cp file1 file2** : copy file1 to file2 name
+
+## Git bash command
++ **git init** : start version control in this folder
++ **git config --global user.name jang-dh git config --global user.email jangdh0428@gmail.com** : write this command only once initially
++ **vim or vi** : open editor
+	+ I : insert
+	+ :wq : save and exit 
++ **git status** : show status
++ **git add filename** : raise the file on the stage that version control
++ **git log** : check git history
++ **git log -p** : compare before and after version. It's similar **git diff**
++ **git branch** : check the branch
++ **git branch branch-name** : make branch
++ **git checkout branch-name** : checkout to branch-name 
++ **git log --branches --decorate --graph --oneline** : show whole status in the branch
++ **git merge branch-name** : merge branch-name to master
++ **git branch -d branch-name** : delete branch-name
++ **git stash** : hide current work (don't commit and go to other branch)
++ **git stash list** : show the stash list
++ **git stash apply** : take out stash
++ **git stash drop** : delete stash lately
++ **git stash pop** : apply and drop command
++ **git clone github-account project-name** : bring github-project
++ **git remote add origin github-account** : connect remote repository to local repository (remote repository is named origin)
++ **git remote -v** : show the remote list
++ **git push origin master** : push local repository to remote repository
++ **git pull origin master** : bring remote repository to local repository
++ **git rm --cached -r target/** : delete target folder
+
+
 
 깃 정리
 
