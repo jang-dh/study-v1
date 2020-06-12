@@ -21,4 +21,4 @@ Liability(부채)는 거래가 일어난 이후에, 현물이나 서비스가 �
 
 Reference : 
 [Debit과 Credit(차변/대변)의 쉬운 이해](https://m.blog.naver.com/PostView.nhn?blogId=ujinjw&logNo=220800581451&proxyReferer=https:%2F%2Fwww.google.com%2F)
-[재무상태표]([https://chatgray.tistory.com/90](https://chatgray.tistory.com/90))
+[재무상태표](https://chatgray.tistory.com/90)
