@@ -61,7 +61,7 @@ kendo.bind($("div"), viewModel);
 
 - 숫자 옵션을 문자 옵션으로 설정합니다.  일부 Kendo UI 위젯은 숫자를 나타내는 문자열 옵션을 허용하며 예를 들어 <input data-role = "maskedtextbox"data-mask = "09">와 같이 구문 분석 할 수 있습니다.  이 마스크는 숫자로 구문 분석되며 위젯은 "09"문자열 대신 초기화 방법으로 단일 9 자리를받습니다. 이와 같은 시나리오에서 위젯 옵션은 사용자 정의 MVVM 바인딩과 함께 설정되어야합니다. 
 
-- 바인딩은 자바스크립트 코드가 아닙니다. 바인딩이 자바스크립트 코드와 비슷해보여도 아닙니다. 코드의 천크는 Kendo UI MVVM 바인딩 선언에 유요하지않습니다. View-Model에서 값을 View에 표시하기 전에 처리해야하는 경우 메소드를 작성하여 대신 사용해야합니다.
+- 바인딩은 자바스크립트 코드가 아닙니다. 바인딩이 자바스크립트 코드와 비슷해보여도 아닙니다. 코드의 <div data-bind = "text : person.name.toLowerCase ()"> </ div> 청크가 유효한 Kendo UI MVVM 바인딩 선언이 아닙니다. View-Model에서 값을 View에 표시하기 전에 처리해야하는 경우 메소드를 작성하여 대신 사용해야합니다.
 	```
 	<div data-bind="text: person.lowerCaseName"></div>
 
