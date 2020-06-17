@@ -145,3 +145,5 @@ HTML 테이블은 일반적으로 접근성 및 검색 엔진 최적화를 개�
 ```
 var grid = $("#grid").data("kendoGrid");
 ```
+
+참조 : [Kendo UI 공식 Document](https://docs.telerik.com/kendo-ui/controls/data-management/grid/overview)
