@@ -74,4 +74,4 @@ Kendo UI 템플릿은 해쉬 템플릿이라고 불리는 간단한 템플릿 �
 
 다음의 예제는
 
-참고 : [Kendo UI 공식 Document]([https://docs.telerik.com/kendo-ui/framework/templates/overview)
+참고 : [Kendo UI 공식 Document](https://docs.telerik.com/kendo-ui/framework/templates/overview)
