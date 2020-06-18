@@ -97,3 +97,4 @@ remoteDataSource.read();
             ]
         }
 ```
+참조 : [Kendo UI 공식 Document](https://docs.telerik.com/kendo-ui/framework/datasource/basic-usage)
