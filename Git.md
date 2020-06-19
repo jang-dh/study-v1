@@ -1,4 +1,4 @@
-# Organize Git
+# Git
 
 ## CMD command
 + **cd** : move the path
