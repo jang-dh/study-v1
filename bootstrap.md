@@ -241,4 +241,4 @@ contextual 클래스는 다음과 같이 사용됩니다.
 ### 반응형 테이블
 `.table-responsive` 클래스는 반응형 테이블을 생성합니다. 그런 다음 테이블은 작은 장치(768px 미만)에서 가로로 스크롤 됩니다. 768px 와이드보다 큰 것을 볼 때 차이가 없습니다.
 
-[w3schools 부트스트랩 튜토리얼](https://www.w3schools.com/bootstrap/default.asp)
+참고 : [w3schools 부트스트랩 튜토리얼](https://www.w3schools.com/bootstrap/default.asp)
